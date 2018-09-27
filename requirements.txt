@@ -1,1 +1,4 @@
-flask, pillow, flask-sqlalchemy, flask-bcrypt
+flask
+pillow
+flask-sqlalchemy
+flask-bcrypt
