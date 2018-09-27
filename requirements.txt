@@ -1,0 +1,1 @@
+flask, pillow, flask-sqlalchemy, flask-bcrypt
