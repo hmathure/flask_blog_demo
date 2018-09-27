@@ -2,3 +2,5 @@ flask
 pillow
 flask-sqlalchemy
 flask-bcrypt
+flask-wtf
+wtforms
